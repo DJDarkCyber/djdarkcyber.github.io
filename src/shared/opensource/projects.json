@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Fake News Detector Web Application",
+      "createdAt": "",
+      "url": "https://github.com/DJDarkCyber/Fake-News-Detector",
+      "description": "Project on Machine Learning to detect fake news in real time news updation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "devicon:tensorflow"
+        },
+        {
+          "name": "Sklearn",
+          "iconifyClass": "devicon:scikitlearn"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos:django-icon"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Credit Card Processing",
+      "createdAt": "",
+      "url": "https://github.com/DJDarkCyber/credit-card-processing_mini-proj",
+      "description": "Credit Card Processing System built with ReactJS with DJango Restframework API.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos:django-icon"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Sports Winner Predictor",
+      "createdAt": "",
+      "url": "https://github.com/DJDarkCyber/SportsWinnerPredictor",
+      "description": "Implemented using ML algorithms and deployed using web app.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "devicon:tensorflow"
+        },
+        {
+          "name": "Sklearn",
+          "iconifyClass": "devicon:scikitlearn"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos:django-icon"
+        },
+        {
+          "name": "Postgresql",
+          "iconifyClass": "devicon:postgresql"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "IPL Winner Predictor Web App",
+      "createdAt": "",
+      "description": "Used ML algorithms to predict winner of the IPL team with interactive web application.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "devicon:tensorflow"
+        },
+        {
+          "name": "Sklearn",
+          "iconifyClass": "devicon:scikitlearn"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos:django-icon"
+        },
+        {
+          "name": "Postgresql",
+          "iconifyClass": "devicon:postgresql"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "100 Days of ML/DL Projects ",
+      "createdAt": "",
+      "url": "https://github.com/DJDarkCyber/MachineLearning-Beginner",
+      "description": "A range of ML/DL projects to gain experience in AI domain.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "devicon:tensorflow"
+        },
+        {
+          "name": "Sklearn",
+          "iconifyClass": "devicon:scikitlearn"
+        },
+        {
+          "name": "Pytorch",
+          "iconifyClass": "devicon:pytorch"
+        },
+        {
+          "name": "Jupyter",
+          "iconifyClass": "devicon:jupyter"
+        }
+      ]
+    }
+  ]
+}

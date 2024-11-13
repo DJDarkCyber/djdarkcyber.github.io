@@ -1,0 +1,9 @@
+{
+  "name": "Daniel Joe Portfolio",
+  "background_color": "#000000",
+  "display": "standalone",
+  "icons": [],
+  "short_name": "Daniel Joe",
+  "start_url": ".",
+  "theme_color": "#000000"
+}
